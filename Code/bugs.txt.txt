@@ -1,2 +1,0 @@
-BUGS BELOW --------------------
-The code is not many of the cards in your hand except for the fireball, and the ice shards are present in both hands. You can't play the cards either.
