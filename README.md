@@ -1,4 +1,4 @@
-A very generic fantasy card game with pixel art and stuff.
+My attempt at making a basic card game system, very derivative of magic/hearthstone.
 
 Press E to change the turn, and R to draw a card (this is a developer function, don't use it to cheat)
 
@@ -17,5 +17,3 @@ Click on a creature on your side of the board to start attacking. You choose a t
 Your creatures are always displayed on the closer side of the board, but where your player is displayed doesn't change, so don't accidentally hit yourself. I'm gonna fix this soon, but I don't have enough time. It's pretty confusing, I know. Again, if you went first, your info is at the bottom corner and if you went second your info is in the top.
 
 First player to 0 health loses.
-
-Have Fun! This game only has about 10 cards currently, so give me card ideas and bug reports! Thanks for playing.
